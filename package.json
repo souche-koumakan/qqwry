@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "iconv-lite": "^0.4.19",
+    "ip-to-int": "^0.3.1",
+    "nan": "^2.7.0"
+  },
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "gypfile": true,
+  "name": "qqwry",
+  "description": "qqwry.dat parser and querier for Node.js.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "should": "^13.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souche-koumakan/qqwry.git"
+  },
+  "author": "XadillaX <i@2333.moe>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/souche-koumakan/qqwry/issues"
+  },
+  "homepage": "https://github.com/souche-koumakan/qqwry#readme"
+}

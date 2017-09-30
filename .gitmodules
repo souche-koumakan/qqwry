@@ -1,0 +1,3 @@
+[submodule "src/libqqwry"]
+path = src/libqqwry
+url = https://github.com/erning/libqqwry.git
